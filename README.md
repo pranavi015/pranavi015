@@ -16,13 +16,12 @@
 ```python
 class Pranavi:
     role        = "Full Stack Developer → AI Engineer"
-    education   = "B.Tech Data Science @ Newton School of Technology, Rishihood University (2024–2028)"
-    location    = "India 🇮🇳"
+    education   = "B.Tech CS @ Newton School of Technology, Rishihood University (2024–2028)"
+    location    = "Hyderabad | Remote Work" 
     focus       = ["LLMs", "RAG Pipelines", "AI Agents", "Full Stack Apps"]
     building    = "InterviewOS — AI-powered interview preparation platform"
     currently   = "Transitioning into AI/ML Engineering"
-    open_to     = ["Full-time roles", "Freelance", "Collaborations"]
-    leetcode    = "65+ problems solved"
+    open_to     = ["AI Engineer Roles","Applied AI Roles","Full-Stack Developer Roles","Founding Engineer Opportunities","Collaborations"]
 ```
 
 ---
@@ -67,13 +66,6 @@ class Pranavi:
 > **AI-powered interview preparation platform** — not just another question bank.
 
 InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recall under pressure, and builds interview confidence over time.
-
-| Feature | What it does |
-|---|---|
-| 🗺️ **Foundations** | Personalized knowledge map from resume + JD — know what to study & what to skip |
-| ⚡ **Interview Blitz** | Fast-paced voice-based interview game — 60s React Blitz, JS Blitz, DBMS Blitz |
-| 🛡️ **Project Defense Mode** | AI grills you on your own GitHub repos using RAG — "Why MongoDB? Why not PostgreSQL?" |
-| 🚀 **Last-Minute Prep** | Crash packs, revision sheets & high-probability questions for interviews in 4 hours |
 
 **Stack:** LangChain · LangGraph · RAG · Next.js · TypeScript · PostgreSQL · Groq API
 
