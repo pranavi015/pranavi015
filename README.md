@@ -62,7 +62,7 @@ class Pranavi:
 
 ## 🏗️ Projects
 
-### 🤖 InterviewOS *(Building)*
+### 🤖 InterviewOS *([Building](https://github.com/pranavi015/interview-os))*
 
 > **AI-powered interview preparation platform** — not just another question bank.
 
@@ -79,7 +79,7 @@ InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recal
 
 ---
 
-### 📅 [Daywise](https://github.com/pranavi015) · *[Demo](https://github.com/pranavi015)*
+### 📅 [Daywise](https://github.com/pranavi015) · *[Demo](day-wise-web.vercel.app/)*
 
 > AI-driven study planner generating adaptive tasks from goals, pace & deadlines
 
@@ -92,7 +92,7 @@ InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recal
 
 ---
 
-### 🍽️ [MoodMeal](https://github.com/pranavi015) · *[Demo](https://github.com/pranavi015)*
+### 🍽️ [MoodMeal](https://github.com/pranavi015) · *[Demo](mood-meal-web.vercel.app)*
 
 > Mood-aware meal recommendation platform converting cravings & emotions into healthier choices
 
@@ -135,11 +135,11 @@ InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recal
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavi015)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavi.mathur2024@nst.rishihood.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranavi-mathur/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathurpranavi15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavi015)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/pranavi015)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://pranavi015.dev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pranavi__15/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](pranavi-mathur-porfolio.vercel.app/)
 
 </div>
 
