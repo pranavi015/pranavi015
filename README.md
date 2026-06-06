@@ -24,13 +24,13 @@ class Pranavi:
     open_to     = ["Full-time roles", "Freelance", "Collaborations"]
     leetcode    = "65+ problems solved"
 ```
-```
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Languages & Frameworks
+**Languages & Frameworks**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,7 +40,8 @@ class Pranavi:
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🤖 AI / ML
+**AI / ML**
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
@@ -48,7 +49,8 @@ class Pranavi:
 ![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logoColor=white)
 
-### 🗄️ Databases & Tools
+**Databases & Tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -61,6 +63,7 @@ class Pranavi:
 ## 🏗️ Projects
 
 ### 🤖 InterviewOS *(Building)*
+
 > **AI-powered interview preparation platform** — not just another question bank.
 
 InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recall under pressure, and builds interview confidence over time.
@@ -77,6 +80,7 @@ InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recal
 ---
 
 ### 📅 [Daywise](https://github.com/pranavi015) · *[Demo](https://github.com/pranavi015)*
+
 > AI-driven study planner generating adaptive tasks from goals, pace & deadlines
 
 - Built **30+ adaptive study tasks** engine from user goals, pace, and learning consistency
@@ -89,6 +93,7 @@ InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recal
 ---
 
 ### 🍽️ [MoodMeal](https://github.com/pranavi015) · *[Demo](https://github.com/pranavi015)*
+
 > Mood-aware meal recommendation platform converting cravings & emotions into healthier choices
 
 - Personalized food discovery using **tagged taste history** and mood-driven recommendation logic
