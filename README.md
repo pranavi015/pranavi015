@@ -67,13 +67,6 @@ class Pranavi:
  
 InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recall under pressure, and builds interview confidence over time.
  
-| Feature | What it does |
-|---|---|
-| 🗺️ **Foundations** | Personalized knowledge map from resume + JD — know what to study & what to skip |
-| ⚡ **Interview Blitz** | Fast-paced voice-based interview game — 60s React Blitz, JS Blitz, DBMS Blitz |
-| 🛡️ **Project Defense Mode** | AI grills you on your own GitHub repos using RAG — "Why MongoDB? Why not PostgreSQL?" |
-| 🚀 **Last-Minute Prep** | Crash packs, revision sheets & high-probability questions for interviews in 4 hours |
- 
 **Stack:** LangChain · LangGraph · RAG · Next.js · TypeScript · PostgreSQL · Groq API
  
 ---
