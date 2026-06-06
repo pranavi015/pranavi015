@@ -60,42 +60,48 @@ class Pranavi:
 ---
 
 ## 🏗️ Projects
-
+ 
 ### 🤖 InterviewOS *([Building](https://github.com/pranavi015/interview-os))*
-
+ 
 > **AI-powered interview preparation platform** — not just another question bank.
-
+ 
 InterviewOS is a purpose-built AI system that diagnoses weaknesses, trains recall under pressure, and builds interview confidence over time.
-
+ 
+| Feature | What it does |
+|---|---|
+| 🗺️ **Foundations** | Personalized knowledge map from resume + JD — know what to study & what to skip |
+| ⚡ **Interview Blitz** | Fast-paced voice-based interview game — 60s React Blitz, JS Blitz, DBMS Blitz |
+| 🛡️ **Project Defense Mode** | AI grills you on your own GitHub repos using RAG — "Why MongoDB? Why not PostgreSQL?" |
+| 🚀 **Last-Minute Prep** | Crash packs, revision sheets & high-probability questions for interviews in 4 hours |
+ 
 **Stack:** LangChain · LangGraph · RAG · Next.js · TypeScript · PostgreSQL · Groq API
-
+ 
 ---
-
-### 📅 [Daywise](https://github.com/pranavi015) · *[Demo](day-wise-web.vercel.app/)*
-
+ 
+### 📅 [Daywise](https://github.com/pranavi015/Daywise) · *[Demo](https://day-wise-web.vercel.app/)*
+ 
 > AI-driven study planner generating adaptive tasks from goals, pace & deadlines
-
+ 
 - Built **30+ adaptive study tasks** engine from user goals, pace, and learning consistency
 - Engineered dynamic scheduling workflows recalibrating tasks using **streak tracking & activity data**
 - Implemented analytics tracking **4+ metrics** — streaks, completions, study hours, active days
 - Developed **15+ REST APIs** with pagination, validation & centralized middleware
-
 **Stack:** Next.js · TypeScript · Node.js · Express.js · PostgreSQL · Prisma · TailwindCSS · Vercel
-
+ 
 ---
-
-### 🍽️ [MoodMeal](https://github.com/pranavi015) · *[Demo](mood-meal-web.vercel.app)*
-
+ 
+### 🍽️ [MoodMeal](https://github.com/pranavi015/MoodMeal) · *[Demo](https://mood-meal-web.vercel.app)*
+ 
 > Mood-aware meal recommendation platform converting cravings & emotions into healthier choices
-
+ 
 - Personalized food discovery using **tagged taste history** and mood-driven recommendation logic
 - Engineered **JWT security architecture** with RBAC middleware & session validation
 - Structured normalized MySQL schemas across **5+ entities**
 - Delivered **18+ REST endpoints** for meal filtering, recommendations & personalized search
-
 **Stack:** Next.js · TypeScript · Express.js · Prisma ORM · MySQL · JWT · TailwindCSS · Vercel
-
+ 
 ---
+ 
 
 ## 🌱 Currently Learning
 
