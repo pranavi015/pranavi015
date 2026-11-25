@@ -104,7 +104,7 @@ A meal recommendation platform that translates cravings and emotional context in
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pranavi015&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&hide_rank=false&count_private=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pranavi015&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&hide_rank=true&count_private=true" height="160"/>
 
 </div>
 
